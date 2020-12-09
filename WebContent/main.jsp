@@ -9,5 +9,6 @@
 <body>
 <h1>main.jsp</h1>
 <p>반갑습니다...</p>
+<h2>안녕</h2>
 </body>
 </html>
